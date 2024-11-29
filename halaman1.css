@@ -1,0 +1,21 @@
+* {
+margin: 0;
+padding: 0;
+background-image: url(isriwil.jpeg);
+}
+
+div h3{
+    color: black;
+    font-family: sans-serif;
+    width: 100%;
+}
+
+div p{
+    color: black;
+    font-size: 20px;
+}
+
+div p a{
+    color: red;
+    text-decoration: none;
+}
